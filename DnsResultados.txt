@@ -1,0 +1,21 @@
+www.hotmail.com.
+
+3
+URL: www.hotmail.com dispatch.kahuna.glbdns2.microsoft.com
+URL: dispatch.kahuna.glbdns2.microsoft.com  IP: 157.56.172.28
+URL: dispatch.kahuna.glbdns2.microsoft.com  IP: 65.55.65.172
+0
+0
+
+
+---
+www.terra.com.br.
+
+2
+URL: www.terra.com.br web-portal-cdn.terra.com.br
+URL: web-portal-cdn.terra.com.br  IP: 200.177.70.65
+0
+0
+
+
+---

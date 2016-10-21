@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1432324386 source:/home/wagner/Documentos/Projetos/C/Redes/cliente_dns/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente_dns.h"
+
+1432060355 source:/home/wagner/Documentos/Projetos/C/Redes/cliente_dns/cliente_dns.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<unistd.h>
+	"cliente_dns.h"
+
+1432416996 /home/wagner/Documentos/Projetos/C/Redes/cliente_dns/cliente_dns.h
+
+1432324386 source:/home/samukasaw/Área de Trabalho/cliente_dns/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente_dns.h"
+
+1432416995 /home/samukasaw/Área de Trabalho/cliente_dns/cliente_dns.h
+
+1432417106 source:/home/samukasaw/Área de Trabalho/cliente_dns/cliente_dns.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+	<unistd.h>
+	<time.h>
+	"cliente_dns.h"
+
+1432469020 source:/home/wagner/Faculdade/Redes de Computadores/cliente_dns/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente_dns.h"
+
+1432474096 /home/wagner/Faculdade/Redes de Computadores/cliente_dns/cliente_dns.h
+
